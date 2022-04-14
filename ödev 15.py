@@ -1,0 +1,1 @@
+#there is no collective noun for python. However, collective nouns for 'snake' can apply. No. Pythons are non-venomous

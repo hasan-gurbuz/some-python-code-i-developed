@@ -1,0 +1,17 @@
+import turtle
+wn = turtle.Screen()
+wn.bgcolor("green")
+turtless = turtle.Turtle()
+turtless.color("blue")
+turtless.shape("turtle")
+for x in range(12):
+    turtless.left(30)
+    turtless.penup()
+    turtless.forward(70)
+    turtless.pendown()
+    turtless.forward(7)
+    turtless.penup()
+    turtless.forward(13)
+    turtless.stamp()
+    turtless.backward(90)
+turtle.done()
